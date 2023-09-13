@@ -1,0 +1,7 @@
+# IDE与编辑器配置
+.vscode/
+.idea/
+
+# 生成数据
+image/
+info/
